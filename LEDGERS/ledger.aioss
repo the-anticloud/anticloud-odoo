@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: SUPERMARKETS/ODOO
+# records: 5
+# head: 6d979bea6451f14484104bfd3cac54843bdd79815923d24fb87788f384444646
+{"digest": "a30fda16f178019aede4e74f99745d5e837d414f6ae309baee386ba5dfb3f5d3", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "b02ef0c1bd4802cfc0edbdf6cbdf0689aadc40a196ab011bb9c2813907091d85", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:54:56Z"}
+{"digest": "9101e99e37cfd0a650b825d813b06e987109d0c25ebaada2d66e09870c5afba8", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "806a292264fa0e3282a39be22b6e2c76c8f929367115d9ef257fdebd6a174a89", "prev": "a30fda16f178019aede4e74f99745d5e837d414f6ae309baee386ba5dfb3f5d3", "seq": 1, "ts": "2026-10-09T05:54:56Z"}
+{"digest": "62dd5d504ce1def444fb0ed3e106adac407b20673b83430ad1fe7271ef1cd285", "kind": "readme", "path": "README.md", "payload_sha3": "586ed73dc099d66f26f94c881e1b2a8e7ce0ec7971c845a4fcc5806906d60443", "prev": "9101e99e37cfd0a650b825d813b06e987109d0c25ebaada2d66e09870c5afba8", "seq": 2, "ts": "2026-10-09T05:54:56Z"}
+{"digest": "2261a08215cf53b04a28afa7ad083acb3e86cd57519670b80506ae7d25e6962c", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "2037371e795efdc81888c085b5712b706ecd75d6766cb5783c10969e43917f43", "prev": "62dd5d504ce1def444fb0ed3e106adac407b20673b83430ad1fe7271ef1cd285", "seq": 3, "ts": "2026-10-09T05:54:56Z"}
+{"digest": "6d979bea6451f14484104bfd3cac54843bdd79815923d24fb87788f384444646", "kind": "notice", "path": "NOTICE", "payload_sha3": "06b794322356a5e5252e0ee29650885bf0d1954a2dc5f0e9d31f1470c9d28e48", "prev": "2261a08215cf53b04a28afa7ad083acb3e86cd57519670b80506ae7d25e6962c", "seq": 4, "ts": "2026-10-09T05:54:56Z"}
