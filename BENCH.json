@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "8108560875d267f0327dae569fc036318d6149bd",
-   "url": "https://github.com/Yenthe666/InstallScript",
-   "sha_verified_from": "agent_alternatives2.json/alternative_found | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/odoo/odoo",
+   "head": "8ff0e7204c0c9638d058ff219e3dde4a4b59cc47",
+   "sha_verified_from": "revendor isolated 2026-10-17",
+   "previous_substitute": "https://github.com/Yenthe666/InstallScript"
   }
  }
 }

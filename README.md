@@ -2,9 +2,7 @@
 
 > Odoo is a suite of web based open source business apps. The main Odoo Apps include an [Open Source CRM](https://www.odoo.com/page/crm), [Website Builder](https://www.odoo.com/app/website), [eCommerce](https://www.odoo.com/app/ecommerce), [Warehouse Management](https://www.odoo.com/app/inventory), [Project Management](https://www.odoo.com/app/project), [Billing &amp; Accounting](https://www.odoo.com/app/accounting), [Point of Sale](https://www.odoo.com/app/point-of-sale-shop), [Human Resources](https://www.odoo.com/app/employees),
 
-**Category:** SUPERMARKETS · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/Yenthe666/InstallScript · **Pinned commit:** `8108560875d267f0327dae569fc036318d6149bd` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/Yenthe666/InstallScript` as the implementation for the `ODOO` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** SUPERMARKETS · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/odoo/odoo · **Pinned commit:** `8ff0e7204c0c9638d058ff219e3dde4a4b59cc47` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-905c4ff6889199519ca547f8e8d323c35154ffce7a7f52837ce8ddb02ad99b47
+959b96bd572cce08a12cfe6bbacfb0b2393601eac14cf94fda4b1fe868b9fcea
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
