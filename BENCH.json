@@ -542,8 +542,8 @@
   "git": {
    "url": "https://github.com/odoo/odoo",
    "head": "8ff0e7204c0c9638d058ff219e3dde4a4b59cc47",
-   "sha_verified_from": "revendor isolated 2026-10-17",
-   "previous_substitute": "https://github.com/Yenthe666/InstallScript"
+   "sha_verified_from": "revendor archive 2026-10-17",
+   "previous_substitute": "https://github.com/odoo/odoo"
   }
  }
 }
